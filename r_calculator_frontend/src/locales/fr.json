@@ -1,0 +1,16 @@
+{
+    "header": {
+        "title": "Calculateur de Résistance"
+    },
+    "form": {
+        "calculationType": "Sélectionnez le circuit :",
+        "series": "Circuit en série",
+        "parallel": "Circuit en parallèle",
+        "resistances": "Valeurs des résistances (Ω) :",
+        "calculateButton": "Calculer la résistance totale"
+    },
+    "result": {
+        "label": "Résistance totale",
+        "unit": "Ω"
+    }
+}

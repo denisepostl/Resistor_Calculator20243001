@@ -1,0 +1,17 @@
+{
+    "header": {
+      "title": "Widerstands-Kalkulator"
+    },
+    "form": {
+      "calculationType": "Auswahl der Schaltung:",
+      "series": "Serienschaltung",
+      "parallel": "Parallelschaltung",
+      "resistances": "Widerstandswerte (Ω):",
+      "calculateButton": "Gesamtwiderstand berechnen"
+    },
+    "result": {
+      "label": "Gesamtwiderstand",
+      "unit": "Ω"
+    }
+}
+  
