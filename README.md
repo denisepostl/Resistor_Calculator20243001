@@ -1,0 +1,1 @@
+# Resistor_Calculator20243001
